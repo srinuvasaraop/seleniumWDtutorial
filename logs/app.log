@@ -1,0 +1,5 @@
+18:12:27.325 DEBUG Filelogging -Debug Message Logged
+18:12:27.330 ERROR Filelogging -Error Message Logged
+18:12:27.330 FATAL Filelogging -Fatal Message Logged
+18:12:27.330 TRACE Filelogging -trace Message Logged
+18:12:27.330 INFO  Filelogging -info Message Logged
